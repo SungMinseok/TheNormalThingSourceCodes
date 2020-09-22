@@ -4,13 +4,14 @@ The Normal Thing Unity Project Source Codes
 ## INDEX
 [1.Various Puzzles](#various-puzzles)
 
-2. Enemy Randomly Appearing and Chasing
-3. Save and Load
+[2.Enemy Randomly Appearing and Chasing](#enemy-randomly-appearing-and-chasing)
 
-[2.코딩을 잘하고 싶어요](#coding을-잘하고-싶어요)
+[3.Save and Load](#save-and-load)
+
+[4.Acquisition and Use of Items](#acquisition-and-use-of-items)
+
 
 ## Various Puzzles
-## Coding을 잘하고 싶어요
 
 ![Rotate Puzzle](https://user-images.githubusercontent.com/70127676/93859850-25d51800-fcf9-11ea-8b1a-316555aded4d.gif)
 ![Jigsaw Puzzle](https://user-images.githubusercontent.com/70127676/93859883-2c638f80-fcf9-11ea-8388-b35f7d833470.gif)
