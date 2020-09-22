@@ -1,6 +1,11 @@
 # TheNormalThingSourceCodes
 The Normal Thing Unity Project Source Codes
 
+![Rotate Puzzle](https://user-images.githubusercontent.com/70127676/93859850-25d51800-fcf9-11ea-8b1a-316555aded4d.gif)
+![Jigsaw Puzzle](https://user-images.githubusercontent.com/70127676/93859883-2c638f80-fcf9-11ea-8388-b35f7d833470.gif)
+
+![Polyomino](https://user-images.githubusercontent.com/70127676/93859916-37b6bb00-fcf9-11ea-9232-cd3fbf2ea2ac.gif)
+![Sliding Puzzle2](https://user-images.githubusercontent.com/70127676/93860447-173b3080-fcfa-11ea-9341-8224531c3690.gif)
 
 ## Enemy Randomly Appearing and Chasing
 ```
