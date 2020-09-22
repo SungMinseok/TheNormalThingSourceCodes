@@ -13,10 +13,25 @@ The Normal Thing Unity Project Source Codes
 
 ## Various Puzzles
 
+1.Rotate Puzzle
+
 ![Rotate Puzzle](https://user-images.githubusercontent.com/70127676/93859850-25d51800-fcf9-11ea-8b1a-316555aded4d.gif)
-![Jigsaw Puzzle](https://user-images.githubusercontent.com/70127676/93859883-2c638f80-fcf9-11ea-8388-b35f7d833470.gif)
+
+Implemented functions
+
+- 블록 회전 경우의 수 : 블록 당 4가지.
+- 모든 블록 랜덤 회전(정답 제외)
+
+2.Polyomino
 
 ![Polyomino](https://user-images.githubusercontent.com/70127676/93859916-37b6bb00-fcf9-11ea-9232-cd3fbf2ea2ac.gif)
+
+3.Jigsaw Puzzle
+
+![Jigsaw Puzzle](https://user-images.githubusercontent.com/70127676/93859883-2c638f80-fcf9-11ea-8388-b35f7d833470.gif)
+
+4.Sliding Puzzle
+
 ![Sliding Puzzle2](https://user-images.githubusercontent.com/70127676/93860447-173b3080-fcfa-11ea-9341-8224531c3690.gif)
 
 ## Enemy Randomly Appearing and Chasing
@@ -118,3 +133,7 @@ The Normal Thing Unity Project Source Codes
         return -1;
     }
 }
+
+
+## Save and Load
+## Acquisition and Use of Items
