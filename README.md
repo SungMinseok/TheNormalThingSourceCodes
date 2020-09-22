@@ -15,7 +15,7 @@ The Normal Thing Unity Project Source Codes
 
 1.Rotate Puzzle
 
-![Rotate Puzzle](https://user-images.githubusercontent.com/70127676/93859850-25d51800-fcf9-11ea-8b1a-316555aded4d.gif)
+<img src="https://user-images.githubusercontent.com/70127676/93859850-25d51800-fcf9-11ea-8b1a-316555aded4d.gif" width="100%" height="100%">
 
 Implemented functions
 
@@ -24,15 +24,15 @@ Implemented functions
 
 2.Polyomino
 
-![Polyomino](https://user-images.githubusercontent.com/70127676/93859916-37b6bb00-fcf9-11ea-9232-cd3fbf2ea2ac.gif)
+<img src="https://user-images.githubusercontent.com/70127676/93859916-37b6bb00-fcf9-11ea-9232-cd3fbf2ea2ac.gif" width="100%" height="100%">
 
 3.Jigsaw Puzzle
 
-![Jigsaw Puzzle](https://user-images.githubusercontent.com/70127676/93859883-2c638f80-fcf9-11ea-8388-b35f7d833470.gif)
+<img src="https://user-images.githubusercontent.com/70127676/93859883-2c638f80-fcf9-11ea-8388-b35f7d833470.gif" width="100%" height="100%">
 
 4.Sliding Puzzle
 
-![Sliding Puzzle2](https://user-images.githubusercontent.com/70127676/93860447-173b3080-fcfa-11ea-9341-8224531c3690.gif)
+<img src="https://user-images.githubusercontent.com/70127676/93860447-173b3080-fcfa-11ea-9341-8224531c3690.gif" width="100%" height="100%">
 
 ## Enemy Randomly Appearing and Chasing
 ```
