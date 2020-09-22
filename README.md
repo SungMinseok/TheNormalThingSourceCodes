@@ -53,6 +53,8 @@ Implemented functions
 
 - Following the player or not
 
+<img src="https://user-images.githubusercontent.com/70127676/93879846-72c7e700-fd17-11ea-9d4e-aba14f683e38.gif" width="100%" height="100%">
+
 - Moving the map with the player
 
 <img src="https://user-images.githubusercontent.com/70127676/93876959-a3f1e880-fd12-11ea-916b-e3aeac22fbb0.gif" width="100%" height="100%">
