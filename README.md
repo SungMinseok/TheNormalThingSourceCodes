@@ -1,7 +1,16 @@
 # TheNormalThingSourceCodes
 The Normal Thing Unity Project Source Codes
 
+## ABOUT
+
+The Normal Thing is the first game I made with Unity 3d. I've worked with 3 graphic designers and 2 story designers for 7 months(03.2020~). I've programmed alone.
+
+The player controls a puppy awakening alone in a dark and mysterious forest. You have to unravel mysteries by solving many puzzles here.
+
+I will introduce the puzzles and systems implemented in this game through Unity 3d.
+
 ## INDEX
+
 [1.Various Puzzles](#various-puzzles)
 
 [2.Enemy Randomly Appearing and Chasing](#enemy-randomly-appearing-and-chasing)
@@ -22,6 +31,8 @@ Implemented functions
 - 블록 회전 경우의 수 : 블록 당 4가지.
 - 모든 블록 랜덤 회전(정답 제외)
 
+What was difficult to implement and why.
+
 2.Polyomino
 
 <img src="https://user-images.githubusercontent.com/70127676/93859916-37b6bb00-fcf9-11ea-9232-cd3fbf2ea2ac.gif" width="100%" height="100%">
@@ -35,6 +46,33 @@ Implemented functions
 <img src="https://user-images.githubusercontent.com/70127676/93860447-173b3080-fcfa-11ea-9341-8224531c3690.gif" width="100%" height="100%">
 
 ## Enemy Randomly Appearing and Chasing
+
+Implemented functions
+
+- Appearance cooldown : Every 3 seconds, a random number from 0 to 99 is drawn, and if the conditions are met, enemies appear. Through this condition, the probability of appearance can be adjusted.
+
+- Following the player or not
+
+- Moving the map with the player
+
+<img src="https://user-images.githubusercontent.com/70127676/93876959-a3f1e880-fd12-11ea-916b-e3aeac22fbb0.gif" width="100%" height="100%">
+
+- Conditions to be destroyed
+
+<img src="https://user-images.githubusercontent.com/70127676/93876966-a6ecd900-fd12-11ea-940d-126d0b78c1c7.gif" width="100%" height="100%">
+
+- Game over
+
+<img src="https://user-images.githubusercontent.com/70127676/93876951-a05e6180-fd12-11ea-8457-e972bc2bec51.gif" width="100%" height="100%">
+
+
+
+
+
+
+
+
+
 ```
     public class UnknownPhase
     {
