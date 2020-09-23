@@ -210,9 +210,9 @@ __- Data visualization //데이터 시각화__
 
 - When saving/loading, it shows the save time and the last location in the game. //저장/불러오기 시 저장시간과 게임 내 마지막 위치를 보여줌.
 
-메인메뉴 저장창
+<img src="https://user-images.githubusercontent.com/70127676/93990983-bd546c80-fdc6-11ea-8b18-8019ccf29361.gif" width="100%" height="100%">
 
-게임 내 설정 저장창
+<img src="https://user-images.githubusercontent.com/70127676/93990991-bf1e3000-fdc6-11ea-86aa-7933bb51c7d6.gif" width="100%" height="100%">
 
 ## Acquisition and Use of Items
 
@@ -220,14 +220,14 @@ Implemented functions //구현한 기능들
 
 __- Item acquisition //아이템 습득__
 
-구두 아이템 줍기
+<img src="https://user-images.githubusercontent.com/70127676/93990996-c0e7f380-fdc6-11ea-95a3-90b9f4c3bacd.gif" width="100%" height="100%">
 
 __- Click of item and detailed description display //아이템 개별 클릭과 상세설명 표시__
 
-아이템창 하나씩 클릭
+<img src="https://user-images.githubusercontent.com/70127676/93991001-c2b1b700-fdc6-11ea-836b-aae769c802d4.gif" width="100%" height="100%">
 
 __- Specific actions available when using items //아이템 사용시 특정 액션 가능__
 
-이상한 나뭇잎 비춰보기
+<img src="https://user-images.githubusercontent.com/70127676/93991011-c5141100-fdc6-11ea-83da-ac830ff7f637.gif" width="100%" height="100%">
 
-전구 
+<img src="https://user-images.githubusercontent.com/70127676/93991021-c80f0180-fdc6-11ea-9e23-214d7fe927bf.gif" width="100%" height="100%">
